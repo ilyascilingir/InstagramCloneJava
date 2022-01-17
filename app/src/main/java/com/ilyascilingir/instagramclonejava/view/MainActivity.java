@@ -1,4 +1,4 @@
-package com.ilyascilingir.instagramclonejava;
+package com.ilyascilingir.instagramclonejava.view;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
